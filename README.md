@@ -1,5 +1,5 @@
 ---
-title:  "Dr. Jin Zhou"
+title:  "Dr. Jin Zhou (周金)"
 mathjax: true
 layout: post
 categories: media
