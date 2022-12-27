@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
   - {title: "Publications", file: "publication.md"}
   - {title: "Research", file: "README.md"}
-  - {title: "Moment"}
+  - {title: "Moment", file: "Moment.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zhoujinhnb@163.com"}
