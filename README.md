@@ -8,7 +8,7 @@ categories: media
 
 
 
-![Jin Zhou](/photo.JPG)
+        ![Jin Zhou](/photo.JPG)
 
 ## Education
 
