@@ -7,7 +7,10 @@ categories: media
 
 ## Favorate Books
 
-![平凡的世界](/pfdsj.jpg); ![红楼梦](/hlm.jpg)
+### 平凡的世界
+
+
+### 红楼梦
 
 ## Interesting Things
 
