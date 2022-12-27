@@ -1,7 +1,7 @@
 ---
 title:  "home"
 mathjax: true
-layout: post
+layout: page
 categories: media
 ---
 
