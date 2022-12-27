@@ -1,9 +1,10 @@
 ---
-layout: page
-title: "Home"
+title:  "home"
+mathjax: true
+layout: post
+categories: media
 ---
-
 
 Hi，，，，
 
-![introduction](/introduction.tif)
+![introduction](/introduction.jpg)
