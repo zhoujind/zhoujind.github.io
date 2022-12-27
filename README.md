@@ -29,7 +29,7 @@ Thesis: Conductive composites of engineered nanomaterials with excellent gas sen
 ### Oct 2019 --- Apr 2023, Ph.D.
 Microelectronics Research Unit, Information Technology and Electrical Engineering, Univeristy of Oulu;
 
-Supervisor: Prof.Krisztian Kordas
+Supervisor: Prof.Krisztian Kordas;
 
 Thesis: Study on the gas sensing performance of ion-in-conjugated squaric polymers.
 
