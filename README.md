@@ -8,7 +8,7 @@ categories: media
 
 
 
-<p><img src="/photo.JPG" alt="exasic logo:center:" /></p>
+<p style="text-align:center;"><img src="/photo.JPG" alt="exasic logo" /></p>
 
 ## Education
 
