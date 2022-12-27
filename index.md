@@ -1,5 +1,5 @@
 ---
-title:  "home"
+title:  none
 mathjax: true
 layout: page
 categories: media
