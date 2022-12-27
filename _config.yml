@@ -1,4 +1,4 @@
-title: "Zhou Jin"
+title: "Zhou Jin's Homepage"
 author: "Zhou Jin"
 description: "念天地之悠悠，独怆然而涕下"
 permalink: /:title/
@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
-  - {title: "Publications", file: "Publications.md"}
+  - {title: "Publications", file: "publication.md"}
   - {title: "Research", file: "Research.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
