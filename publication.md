@@ -17,9 +17,9 @@ categories: media
 
 5) Zhou, J.; Lin, H.-Z.; Cheng, X.-F.; Shu, J.; He, J.-H.;* Li, H.; Xu, Q.-F.; Li, N.-J.; Chen, D.-Y.; Lu, J.-M.,* Ultrasensitive and robust organic gas sensors through dual hydrogen bonding. Materials Horizons 2019, 6, 554-562. [https://pubs.rsc.org/en/content/articlehtml/2019/mh/c8mh01098f](https://pubs.rsc.org/en/content/articlehtml/2019/mh/c8mh01098f)
 
-6)Zhou, J.; Cheng, X.-F.; Gao, B.-J.; Yu, C.; He, J.-H.;* Xu, Q.-F.; Li, H.; Li, N.-J.; Chen, D.-Y.; Lu, J.-M.,* Detection of NO<sub>2</sub> Down to One ppb Using Ion-in-Conjugation-Inspired Polymer. Small 2019, 15 (2), 1803896.[https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201803896](https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201803896)
+6) Zhou, J.; Cheng, X.-F.; Gao, B.-J.; Yu, C.; He, J.-H.;* Xu, Q.-F.; Li, H.; Li, N.-J.; Chen, D.-Y.; Lu, J.-M.,* Detection of NO<sub>2</sub> Down to One ppb Using Ion-in-Conjugation-Inspired Polymer. Small 2019, 15 (2), 1803896.[https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201803896](https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201803896)
 
-7)Qian, W.-H.; Cheng, X.-F.; Zhao, Y.-Y.; **Zhou, J.;**  He, J.-H.;* Li, H.; Xu, Q.-F.; Li, N.-J.; Chen, D.-Y.; Lu, J.-M.,* Independent memcapacitive switching triggered by bromide ion migration for quaternary information storage. Advanced Materials 2019, 31, 1806424. [https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201806424](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201806424)
+7) Qian, W.-H.; Cheng, X.-F.; Zhao, Y.-Y.; **Zhou, J.;**  He, J.-H.;* Li, H.; Xu, Q.-F.; Li, N.-J.; Chen, D.-Y.; Lu, J.-M.,* Independent memcapacitive switching triggered by bromide ion migration for quaternary information storage. Advanced Materials 2019, 31, 1806424. [https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201806424](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201806424)
 
 8) Xue-Feng Cheng, Xiang Hou, **Jin Zhou**, Bi-Jun Gao, Jing-Hui He,* Hua Li, Qing-Feng Xu, Na-Jun Li, Dong-Yun Chen, and Jian-Mei Lu* Pseudohalide‐Induced 2D (CH<sub>3</sub>NH<sub>3</sub>)<sub>2</sub>PbI<sub>2</sub>(SCN)<sub>2</sub> Perovskite for Ternary Resistive Memory with High Performance. Small 2018, 14, 170366.[https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201703667](https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201703667)
 
