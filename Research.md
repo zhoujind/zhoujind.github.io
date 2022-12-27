@@ -1,11 +1,10 @@
 ---
-title:  "Research"
+title:  "Research Interests"
 mathjax: true
 layout: post
 categories: media
 ---
 
-## Research Interest
 
 ### Gas sensors
 
