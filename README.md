@@ -60,6 +60,4 @@ Zhu Jing Wen scholarship(朱敬文奖学金), 2019
 
 Email: Jin.Zhou@oulu.fi; Zhoujinhnb@163.com
 
-Google scholar profile: [Zhou Jin](https://scholar.google.com/citations?user=BKqQO7gAAAAJ&hl=zh-CN)
-
 LinkedIn: [Zhou Jin](https://www.linkedin.com/in/jin-zhou-a08837201/)
