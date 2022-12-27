@@ -8,7 +8,7 @@ categories: media
 
 
 
-![Jin Zhou logo:center:](/photo.JPG)
+<p><img src="/photo.JPG" alt="exasic logo:center:" /></p>
 
 ## Education
 
