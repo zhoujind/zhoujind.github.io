@@ -11,4 +11,4 @@ categories: media
 
 18）Zijian Cai†, Yaqian Zhang†, Zhengyan Lun†* , Bin Ouyang, Leighanne C. Gallington, Yingzhi Sun, Han-Ming Hau, Yu Chen, Mary C. Scott* , Gerbrand Ceder* , 
 
-Full list of publications in Google Scholar
+[Full list of publications in Google Scholar](https://scholar.google.com/citations?user=BKqQO7gAAAAJ&hl=zh-CN)
