@@ -12,12 +12,12 @@ categories: media
 
 ## Education
 
-### Sept 2012 --- Jun 2016, B.S.
-School of Chemistry and Chemical Engineering, Jinggangshan University; 
+### Oct 2019 --- Apr 2023, Ph.D.
+Microelectronics Research Unit, Information Technology and Electrical Engineering, Univeristy of Oulu;
 
-Major: Applied Chemistry; 
+Supervisor: Prof.Krisztian Kordas;
 
-Research advisor: Prof. JinHua Cai.
+Thesis: Study on the gas sensing performance of ion-in-conjugated squaric polymers.
 
 ### Sep 2016 --- Jun 2019, M.S.
 College of Chemistry, Chemical Engineering and Materials Science of Soochow University, Soochow University; 
@@ -26,12 +26,13 @@ Supervisor: Prof. JinHui He;
 
 Thesis: Conductive composites of engineered nanomaterials with excellent gas sensing properties.
 
-### Oct 2019 --- Apr 2023, Ph.D.
-Microelectronics Research Unit, Information Technology and Electrical Engineering, Univeristy of Oulu;
+### Sept 2012 --- Jun 2016, B.S.
+School of Chemistry and Chemical Engineering, Jinggangshan University; 
 
-Supervisor: Prof.Krisztian Kordas;
+Major: Applied Chemistry; 
 
-Thesis: Study on the gas sensing performance of ion-in-conjugated squaric polymers.
+Research advisor: Prof. JinHua Cai.
+
 
 ## Work experience
 
