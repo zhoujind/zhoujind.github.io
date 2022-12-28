@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-## Favorate Books
+## Favourite Books
 
 平凡的世界
 
