@@ -17,14 +17,14 @@ Microelectronics Research Unit, Information Technology and Electrical Engineerin
 
 Supervisor: Prof.Krisztian Kordas;
 
-Thesis: Study on the gas sensing performance of ion-in-conjugated squaric polymers.
+Thesis: Conductive composites of engineered nanomaterials with excellent gas sensing properties.
 
 ### Sep 2016 --- Jun 2019, M.S.
 College of Chemistry, Chemical Engineering and Materials Science of Soochow University, Soochow University; 
 
 Supervisor: Prof. JinHui He;
 
-Thesis: Conductive composites of engineered nanomaterials with excellent gas sensing properties.
+Thesis: Study on the gas sensing performance of ion-in-conjugated squaric polymers.
 
 ### Sept 2012 --- Jun 2016, B.S.
 School of Chemistry and Chemical Engineering, Jinggangshan University; 
