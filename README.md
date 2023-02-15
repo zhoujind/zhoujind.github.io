@@ -43,9 +43,9 @@ Research advisor: Prof. JinHua Cai.
 
 ## Competitions and awards
 
-STViF Traveling grant 2022
+STViF Traveling grant, 2022
 
-Walter Ahlströmin säätiön, 2021, 2020
+Walter Ahlströmin säätiön, 2022, 2021, 2020
 
 Riitta and Jorma J. Takanen Foundation, 2020
 
