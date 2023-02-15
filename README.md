@@ -51,9 +51,9 @@ Riitta and Jorma J. Takanen Foundation, 2020
 
 China Scholarship Council, 2019
 
-Outstanding Graduate of Soochow University(优秀研究生) 2019
+Outstanding Graduate of Soochow University(优秀研究生), 2019
 
-Zhu Jing Wen scholarship(朱敬文奖学金) 2019
+Zhu Jing Wen scholarship(朱敬文奖学金), 2019
 
 
 
