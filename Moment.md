@@ -11,7 +11,7 @@ categories: media
 
 ## Favourite Books
 
-_World of Plainness_ 《平凡的世界》
+_Ordinary World_ 《平凡的世界》
 
 _A Dream of Red Mansions_ 《红楼梦》
 
