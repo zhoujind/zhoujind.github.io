@@ -39,9 +39,9 @@ Research advisor: Prof. JinHua Cai;
 ### Jun. 2023 --- Now,  Postdoctor
 Department of Materials Science, Fudan University
 
-Major: Ion batteries
+Research topic: Ion batteries
 
-Supervisor: Prof.Renbin Wu.
+Supervisor: Prof. Renbin Wu.
 
 
 ## Competitions and awards
