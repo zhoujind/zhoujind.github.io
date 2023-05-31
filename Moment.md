@@ -7,7 +7,7 @@ categories: media
 
 ## Defence
 
-[defence.jpg](/defence.jpg)
+![defence.jpg](/defence.jpg)
 
 ## Favourite Books
 
