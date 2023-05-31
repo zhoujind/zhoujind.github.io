@@ -11,9 +11,9 @@ categories: media
 
 ## Favourite Books
 
-平凡的世界
+_World of Plainness_ 《平凡的世界》
 
-红楼梦
+_A Dream of Red Mansions_ 《红楼梦》
 
 <audio id="audio" controls="" preload="none">
       <source id="mp3" src="/music.mp3">
