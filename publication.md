@@ -8,9 +8,10 @@ categories: media
 (* corresponding author;      † co-authorship)
 
 1) Zhou, J.; Shokouh, S. H.; Cui, L. F.; Järvinen, T.; Pitkänen, O., Lv, Z. P.*; Kordas K.,* An ultra-sensitive NH<sub>3</sub> gas sensor enabled by an ion-in-conjugated polycroconaine/Ti<sub>3</sub>C<sub>2</sub>T<sub>x</sub> core–shell composite Nanoscale Horizon 2023, 8, 794-802. [https://pubs.rsc.org/en/content/articlehtml/2023/nh/d2nh00591c](https://pubs.rsc.org/en/content/articlehtml/2023/nh/d2nh00591c)
+
 2) Zhou, J.; Shokouh, S. H.; Komsa, H. P.; Rieppo, L.; Cui, L. F.; Lv, Z. P.*; Kordas K.,* MXene hybride prepared by microwave-assisted in-situ intercalation for gas sensing Advanced Materials Technologies 2022, 7, 2101565.[https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202101565](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202101565)
 
-2) Zhou, J.; Bagheri, M.; Järvinen, T.; Kukovecz, A.; Komsa, H.-P.;* Kordas K.,* C<sub>60</sub>Br<sub>24</sub>/SWCNT: A highly sensitive medium to detect H<sub>2</sub>S via inhomogeneous carrier doping. ACS Applied Materials & Interfaces 2021, 13, 49, 59067–59075.[https://pubs.acs.org/doi/full/10.1021/acsami.1c16807](https://pubs.acs.org/doi/full/10.1021/acsami.1c16807)
+3) Zhou, J.; Bagheri, M.; Järvinen, T.; Kukovecz, A.; Komsa, H.-P.;* Kordas K.,* C<sub>60</sub>Br<sub>24</sub>/SWCNT: A highly sensitive medium to detect H<sub>2</sub>S via inhomogeneous carrier doping. ACS Applied Materials & Interfaces 2021, 13, 49, 59067–59075.[https://pubs.acs.org/doi/full/10.1021/acsami.1c16807](https://pubs.acs.org/doi/full/10.1021/acsami.1c16807)
 
 3) Zhou, J.; Järvinen, T.; Pitkänen, O.; Kónya, Z.; Kukovecz, A.*; Kordas, K.,* Composites of ion-in-conjugation polysquaraine and SWCNTs for the detection of H<sub>2</sub>S and NH<sub>3</sub> at ppb concentrations. Nanotechnology 2021, 32 185502. [http://publicatio.bibl.u-szeged.hu/21128/1/Zhou_2021_Nanotechnology_32_185502.pdf](http://publicatio.bibl.u-szeged.hu/21128/1/Zhou_2021_Nanotechnology_32_185502.pdf)
 
