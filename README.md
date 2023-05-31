@@ -31,14 +31,17 @@ School of Chemistry and Chemical Engineering, Jinggangshan University;
 
 Major: Applied Chemistry; 
 
-Research advisor: Prof. JinHua Cai.
+Research advisor: Prof. JinHua Cai;
 
 
 ## Work experience
 
 ### Apr 2023 --- Now,  Postdoctor
+Department of Materials Science, Fudan University
 
+Major: Ion batteries
 
+Supervisor: Prof.Renbin Wu.
 
 
 ## Competitions and awards
