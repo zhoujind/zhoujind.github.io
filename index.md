@@ -23,8 +23,7 @@ I am a materials scientist focusing on the design and development of high-perfor
 Contact | 联系方式
 Email: jin@fudan.edu.cn
 
-ORCID: 0000-0000-0000-0000
-Google Scholar / LinkedIn / Personal Page
 
 ![introduction](/introduction.jpg)
+
 
