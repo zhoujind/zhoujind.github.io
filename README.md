@@ -12,8 +12,6 @@ categories: media
 
 ## Education
 
-### Jun. 2023 --- Now
-iCOME Fundan University
 
 ### Oct. 2019 --- May 2023, Ph.D.
 Microelectronics Research Unit, Information Technology and Electrical Engineering, University of Oulu;
