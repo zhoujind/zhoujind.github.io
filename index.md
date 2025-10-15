@@ -5,7 +5,7 @@ layout: page
 categories: media
 ---
 
-Honor Di, Ph.D. | 博士后研究员
+Jin Zhou, Ph.D. | 博士后研究员
 
 Postdoctoral Researcher, Department of Materials Science, 复旦 University
 材料科学系博士后研究员，复旦大学
@@ -25,5 +25,6 @@ Email: jin@fudan.edu.cn
 
 
 ![introduction](/introduction.jpg)
+
 
 
