@@ -12,8 +12,11 @@ categories: media
 
 ## Education
 
+### Jun. 2023 --- Now
+iCOME Fundan University
+
 ### Oct. 2019 --- May 2023, Ph.D.
-Microelectronics Research Unit, Information Technology and Electrical Engineering, Univeristy of Oulu;
+Microelectronics Research Unit, Information Technology and Electrical Engineering, University of Oulu;
 
 Supervisor: Prof.Krisztian Kordas;
 
@@ -58,7 +61,13 @@ Outstanding Graduate of Soochow University(优秀研究生), 2019
 
 Zhu Jing Wen scholarship(朱敬文奖学金), 2019
 
+## Projects
 
+China Postdoctoral Science Foundation (2023M740640)
+
+Postdoctoral Fellowship Program of CPSF (GZC20230460)
+
+China-Finland Cooperation Project
 
 ## Contact information
 
